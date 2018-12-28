@@ -1,0 +1,27 @@
+body{
+	background-color:#f6f8fa !important; 	
+}
+.btn-space {
+    margin-left: 20px;
+}
+.btn-group{
+	float: right;
+}
+.btn-primary{
+    background-color: #22b9ff !important;
+    border-color: #22b9ff !important;
+}
+.btn-warning{
+    background-color: #ffb93b !important;
+    border-color: #ffb93b !important;
+}
+.btn-danger{
+        background-color: #f4516c !important;
+    border-color: #f4516c !important;
+}
+.react-bs-table-container{
+	background-color: #fff;
+    padding: 2%;
+    margin-top: 2%;
+}
+    
